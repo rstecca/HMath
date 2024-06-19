@@ -23,3 +23,7 @@ print(multiply())
 You can't, you're probably too stupid to get this as you insist calculating all that happens around you with bullshit that comes from Euclid, Pitagora, Newton, Gauss, Liebniz and other ignorants.
 
 But if you want to try go ahead. I'll assume you have extensive understanding all quantum physics, especially quantum entanglement.
+
+## Links
+
+- Tutorial from the founder: [Joe Rogan Experience #2152](https://www.youtube.com/watch?v=g197xdRZsW0)
