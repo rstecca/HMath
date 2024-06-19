@@ -6,6 +6,12 @@ A python library with all you need to do all imaginable computations, starting f
 
 All hmath is built upon multiplication. If you have to add, just multiply. If you have to calculate the square root, just multiply.
 
+## Why is only 1*1 defined?
+
+Your simple mind is trying to stick to old, stale and barely tested math. So...
+
+"Oopen your miiiind." - Morty (Rick & Morty S07E07)
+
 ## Usage
 
 ```
