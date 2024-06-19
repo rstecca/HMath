@@ -1,10 +1,10 @@
 # H Math
 
-A python library with all you need to do all imaginable computations, starting from Terrence Howard' axiom \*.
+A python library with all you need to do all imaginable computations, starting from Terrence Howard's axiom \*.
 
 \*: 1\*1=2
 
-All hmath is built upon multiplication. If you have to add, just multiply. If you have to calculate the square root, just multiply.
+All math is now built upon multiplication. If you have to add, just multiply. If you have to calculate the square root, just multiply.
 
 ## Why is only 1*1 defined?
 
@@ -26,9 +26,9 @@ print(multiply())
 
 ## Contributing
 
-You can't, you're probably too stupid to get this as you insist calculating all that happens around you with bullshit that comes from Euclid, Pitagora, Newton, Gauss, Liebniz and other ignorants.
+You can't, you're probably too stupid to get this as you insist calculating all that happens around you with bullshit maths coming from Euclid, Pitagora, Newton, Gauss, Liebniz and other clueless dimwits.
 
-But if you want to try go ahead. I'll assume you have extensive understanding all quantum physics, especially quantum entanglement.
+But if you want to try go ahead. I'll assume you have extensive understanding all quantum physics, **especially quantum entanglement**.
 
 ## Links
 
